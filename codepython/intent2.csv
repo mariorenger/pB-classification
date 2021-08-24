@@ -1,0 +1,62 @@
+intent,user say,action
+1.Hỏi về các giấy tờ cần để làm giấy X,Tôi muốn hỏi về các giấy tờ khi làm giấy X,1
+,Tôi cần những giấy tờ gì để đăng ký giấy X,1
+,Làm giấy tờ X thì cần những gì,1
+,Làm giấy tờ X thì cần giấy tờ liên quan nào,1
+,Tôi cần các giấy tờ gì khi làm giấy tờ X,1
+,Các loại giấy cần thiết để làm giấy tờ X,1
+,Các giấy tờ liên quan khi làm giấy tờ X,1
+,Các giấy tờ cần thiết khi làm giấy tờ X ,1
+,Hồ sơ làm giấy tờ X gồm những gì,1
+2. Hỏi về các bước khi làm giấy X,Các bước để làm giấy X là gì,2
+,Muốn làm giấy X thì làm mấy bước,2
+,Quy trình làm giấy X là gì,2
+,Thủ tục làm giấy X như thế nào,2
+,Tôi muốn hỏi về các bước làm giấy tờ X,2
+,Quy trình làm giấy X có những bước nào,2
+,Quy trình làm giấy tờ X như thế nào,2
+,Trình tự làm giấy tờ X như thế nào,2
+,Làm giấy tờ X phải trải qua mấy bước,2
+,Trình tự làm giáy tờ X gồm mấy bước,2
+,Làm thủ tục X cần những bước nào,2
+,Tôi muốn làm giấy tờ X,2
+,Làm giấy tờ X như thế nào,2
+,Thủ tục làm giấy tờ X cụ thể như nào ,2
+3. Hỏi về cơ quan thực hiện làm giấy X,Tôi làm giấy X sẽ nộp ở đâu,3
+,Tôi cần đến đâu để làm giấy X,3
+,Làm giấy tờ X thì làm ở đâu ,3
+,Tôi cần phải nộp giấy tờ X cho cơ quan nào,3
+,Nơi nào tiếp nhận làm giấy tờ X nhỉ,3
+,Cơ quan nào tiếp nhận làm giấy tờ X,3
+,Cơ quan nào có trách nhiệm làm giấy tờ X,3
+,Nộp giấy tờ X cho đơn vị nào,3
+,Có thể nộp giấy tờ X cho đơn vị nào,3
+,Giấy tờ X phải nộp cho ai,3
+,Nơi nào tiếp nhận làm giấy tờ X cho tôi,3
+,Tôi cần làm giấy tờ X thì đến đâu,3
+,Cơ quan nào tiếp nhận các giấy tờ X ,3
+,Đơn vị nào tiếp nhận hồ sơ làm giấy tờ X ,3
+"4. Cách thức thực hiện khi làm giây X ( online, offline, nộp qua bưu điện,...)",Giấy tờ X có thể làm online không,4
+"Hay là cái này chuyển sang câu hỏi có, không dễ gặp hơn",Có thể làm giấy tờ X trực tuyến không,4
+"xong trả lời là: Bạn có thể làm online, offline ,... hoặc chỉ có thể làm offline",Tôi có thể làm giấy tờ X trên trang web dichvucong không,4
+,Tôi có thể tìm giấy tờ X trên mạng không,4
+,Làm giấy tờ X mà không cần đến ủy ban được không,4
+,Tôi có thể làm giấy tờ X trên internet được không,4
+,Làm giấy tờ X trực tuyến có được sao không,4
+,Nộp giấy tờ X qua bưu điện có vấn đề gì không,4
+,Làm giấy tờ X mà không cần ra chính quyền được không,4
+,Nộp giấy tờ X qua internet được không,4
+,Nộp giấy tờ X qua mạng được không,4
+,Tôi có thể nộp giấy tờ X qua bưu điện không,4
+"5. Hỏi về thủ tục khi cần cấp mới, cấp lại giấy X",Để cấp lại giấy X mình cần phải làm gì,5
+,Các giây tờ cần thiết khi cấp lại giấy tờ X ,5
+,Thủ tục cấp mới giấy tờ X như thế nào,5
+,Cách làm lại giấy tờ X,5
+,Các bước để được cấp lại giấy tờ X,5
+,Các bước để làm lại giấy tờ X,5
+,Làm lại giấy tờ X như thế nào,5
+,Các bước để làm lại giấy tờ X,5
+,Tôi có thể được cấp lại giấy tờ X không,5
+,Cấp lại giấy tờ X phải làm gì,5
+,Muốn làm lại giấy tờ X phải làm thế nào,5
+,Muốn cấp lại giấy tờ X cần thủ tục gì,5
