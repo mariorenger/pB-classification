@@ -6,6 +6,11 @@ cd codepython
 chmod +rx installScript.sh
 ./installScript.sh 
 
+#train model
+python trainModel.py
+#kiểm tra kết quả
+python test.py
+
 =======================================
 
 #bật môi trường ảo window
